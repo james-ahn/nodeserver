@@ -14,6 +14,17 @@ for developing node server with connection DB
 1. cline will request data by ajax
 2. node server will get the http request
 3. send parameter to db pool
-4. ask to db
+4. connect to db
+
+
+# reference 
+
+https://github.com/mysqljs/mysql
+
+https://javafa.gitbooks.io/nodejs_server_basic/content/chapter3.html
+
+
+
+
 
 
